@@ -31,7 +31,7 @@ Nació con el propósito de no separar al profesional de la persona y articular 
 ### 🛠️ Stack Técnico de Cabecera
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,vue,astro,ts,tailwind,nodejs,postgres,supabase,git" alt="Kotlin, Android, Vue, Astro, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,apple,vue,astro,ts,tailwind,nodejs,postgres,supabase,git" />
 </p>
 
 ---
